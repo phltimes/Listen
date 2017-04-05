@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      stickphi00
-#
-# Created:     03.04.2017
-# Copyright:   (c) stickphi00 2017
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 #Wartezeit: Anzahl der Elemente
 #New: neues Element am Ende
 #Boarding: geht weg
